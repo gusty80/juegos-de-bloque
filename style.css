@@ -1,0 +1,47 @@
+body{
+    background-image: url("imagen/css.jfif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.titulo{
+    margin: 0;
+    border-style: groove;
+    text-align: center;
+}
+.hp{
+    border: 2px solid black;
+}
+
+.numero{
+    background: rgba(255, 165, 0, 0.73);
+    padding: 20px;
+    color: red ;
+    text-align: center;
+    font-size: 26px; 
+    border: 2px solid khaki;
+}
+.N{
+    background: rgba(255, 0, 179, 0.5);
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    font-size: 26px;
+    border: 2px solid blueviolet;
+}
+
+.tres{
+padding: 20px;
+background-color: green;
+text-align: center;
+color: azure;
+border: 2px solid green;
+
+}
+
+    
+      

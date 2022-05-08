@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Documentos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "visual studio"
+	}
+}
